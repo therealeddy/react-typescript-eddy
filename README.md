@@ -1,1 +1,1 @@
-# REACT TS EDDY
+# react-typescript-eddy
