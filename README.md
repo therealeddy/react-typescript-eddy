@@ -176,7 +176,7 @@ Follow the installation instructions on the link below: <br>
 
 ## License
 
-MIT © **[ReactNative TypeScript](LICENSE)**
+MIT © **[React TypeScript](LICENSE)**
 
 ## Show your support
 
