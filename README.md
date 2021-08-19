@@ -54,9 +54,6 @@ Remember to execute the command ```yarn upgrade``` to update with dependencies.
 
 **Normal:**
 
-- @testing-library/jest-dom
-- @testing-library/react
-- @testing-library/user-event
 - axios
 - history
 - immer
@@ -75,13 +72,13 @@ Remember to execute the command ```yarn upgrade``` to update with dependencies.
 - redux-persist
 - redux-saga
 - styled-components
-- typescript
 - web-vitals
 - yup
 
 **Dev Dependencies:**
 
 - @types/*
+- typescript
 - babel-plugin-root-import
 - customize-cra
 - react-app-rewired
